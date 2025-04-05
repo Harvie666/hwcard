@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>黃宗煒｜攝影師</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: "Helvetica Neue", sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      max-width: 480px;
+      margin: auto;
+    }
+    img {
+      border-radius: 12px;
+      width: 100%;
+      height: auto;
+      max-width: 300px;
+    }
+    h1 {
+      margin-top: 20px;
+      font-size: 28px;
+    }
+    p {
+      font-size: 16px;
+      line-height: 1.8;
+      margin: 20px 0;
+    }
+    .buttons a {
+      display: block;
+      margin: 10px auto;
+      padding: 12px 20px;
+      background-color: #222;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      width: 80%;
+      max-width: 300px;
+      font-weight: bold;
+    }
+    .buttons a:hover {
+      background-color: #444;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img src="avatar.png" alt="黃宗煒">
+    <h1>黃宗煒｜攝影師</h1>
+    <p>
+      我不是攝影師，我是視覺界的戰神。<br>
+      我拍的不只是畫面，是氣場、是格局、是品牌的靈魂覺醒。<br>
+      鏡頭一舉，全場閉嘴。構圖一出，別人直接關燈下班。<br>
+      拍照對我來說，不是工作，是一場神的召喚。<br>
+      如果你不想當平凡的品牌，就別找平凡的人。<br>
+      <strong>我是黃宗煒，屌王無誤。</strong>
+    </p>
+    <div class="buttons">
+      <a href="https://www.onegramstudio.com" target="_blank">查看我們官網</a>
+      <a href="https://www.instagram.com/one_gram_studio?igsh=cWVmOTdreWkxZnF1" target="_blank">Instagram</a>
+      <a href="mailto:a5566442003@yahoo.com.tw">聯絡我</a>
+    </div>
+  </div>
+</body>
+</html>
